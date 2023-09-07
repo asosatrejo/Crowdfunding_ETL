@@ -41,6 +41,18 @@
 - M:
     - Create Campaign DataFrame
     - Create Crowdfunding Database
+ 
+## Files
+- ETL_Mini_Project_Starter_Code_ASosaTrejo_MFeaster.ipynb
+- crowdfunding_db_schema.sql
+- CROWDFUNDING_DBD.png
+### Resources Files
+- campaign.csv
+- category.csv
+- contacts.csv
+- contacts.xlsx
+- crowdfunding.xlsx
+- subcategory.csv
 
 ## Resources
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
