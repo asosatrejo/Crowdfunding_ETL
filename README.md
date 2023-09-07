@@ -43,6 +43,7 @@
     - Create Crowdfunding Database
  
 ## Files
+Other files were added for individual work. The file names provided are for the graded portion.
 - ETL_Mini_Project_Starter_Code_ASosaTrejo_MFeaster.ipynb
 - crowdfunding_db_schema.sql
 - CROWDFUNDING_DBD.png
