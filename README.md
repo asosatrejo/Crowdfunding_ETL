@@ -47,4 +47,4 @@
 - [Quick-Start: Regex Cheat Sheet](https://www.rexegg.com/regex-quickstart.html)
 
 ## Team
-Created by [Ariana S.T.](https://github.com/asosatrejo) [A] and [Mary F.](https://github.com/mfeas) [M]
+Created by [Ariana S.T.](https://github.com/asosatrejo) [A] and [Mary F.](https://github.com/mfeas/) [M]
